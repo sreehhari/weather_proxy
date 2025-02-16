@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/weather",
-      "destination": "/api/weather"
+      "destination": "/api/server"
     }
   ]
 }
